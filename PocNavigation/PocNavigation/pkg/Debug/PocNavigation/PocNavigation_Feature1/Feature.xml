@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="abcfa9ac-2c33-4557-988e-6b09e82dc1bf" Scope="Site" Title="PocNavigation Feature1">
-  <ElementManifests>
-    <ElementManifest Location="RodapeWP\Elements.xml" />
-    <ElementFile Location="RodapeWP\RodapeWP.webpart" />
-  </ElementManifests>
-</Feature>
