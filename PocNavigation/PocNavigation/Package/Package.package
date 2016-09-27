@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ad41f713-acb9-4c08-883d-14e3cffae0cf" solutionId="ad41f713-acb9-4c08-883d-14e3cffae0cf" resetWebServer="false" sharePointProductVersion="15.0" name="PocNavigation" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
-  <features>
-    <featureReference itemId="b78e1c52-ee1a-46ce-b4b8-5c93551a387f" />
-  </features>
-</package>
