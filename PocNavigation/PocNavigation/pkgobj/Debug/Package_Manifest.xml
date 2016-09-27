@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ad41f713-acb9-4c08-883d-14e3cffae0cf" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="PocNavigation.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="PocNavigation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f94c12823d009f94" Namespace="PocNavigation.RodapeWP" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="PocNavigation_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
